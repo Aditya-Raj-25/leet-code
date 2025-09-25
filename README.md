@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aditya-Raj-25/leet-code/tree/master/0078-subsets) |
+| [0135-candy](https://github.com/Aditya-Raj-25/leet-code/tree/master/0135-candy) |
 | [1677-matrix-diagonal-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aditya-Raj-25/leet-code/tree/master/0078-subsets) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Aditya-Raj-25/leet-code/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
