@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aditya-Raj-25/leet-code/tree/master/0078-subsets) |
 | [0135-candy](https://github.com/Aditya-Raj-25/leet-code/tree/master/0135-candy) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Aditya-Raj-25/leet-code/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
