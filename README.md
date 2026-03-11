@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aditya-Raj-25/leet-code/tree/master/0078-subsets) |
+| [1009-complement-of-base-10-integer](https://github.com/Aditya-Raj-25/leet-code/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
 |  |
 | ------- |
