@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-Raj-25/leet-code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Aditya-Raj-25/leet-code/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya-Raj-25/leet-code/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aditya-Raj-25/leet-code/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aditya-Raj-25/leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
